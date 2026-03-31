@@ -123,6 +123,12 @@ Este laboratório permite simular cenários reais como:
 
 ---
 
+## 📊 Dashboard - Recusros
+
+![Recusros](images/Dashboard.png)
+
+---
+
 # 👨‍💻 Autor
 
 Guilherme Augusto
